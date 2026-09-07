@@ -34,3 +34,7 @@ The application was manually tested using the Android emulator to verify the app
 ## Author
 
 Yoane Sebastiao
+
+## Video Demonstration
+
+YouTube video: https://youtu.be/J94zGW4A1Us
